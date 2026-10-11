@@ -1,0 +1,8 @@
+{
+  "label": "⚡ JavaScript 峡谷底层",
+  "position": 1,
+  "link": {
+    "type": "generated-index",
+    "description": "涵盖单线程事件循环、执行栈、原型链、闭包内存、V8引擎与Observers的峡谷硬核宝典"
+  }
+}

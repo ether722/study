@@ -1,0 +1,8 @@
+{
+  "label": "💚 Vue3 & Mini-Vue 极致性能",
+  "position": 5,
+  "link": {
+    "type": "generated-index",
+    "description": "涵盖响应式系统、globalVersion版本号机制、编译器优化与手写Mini-Vue设计思想"
+  }
+}

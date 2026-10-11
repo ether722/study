@@ -1,0 +1,8 @@
+{
+  "label": "🤖 大模型与智能体天梯",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "涵盖Tokenizer、Prompt、LangChain、RAG检索增强、智能体微调与端到端质检的16卷全景战报"
+  }
+}

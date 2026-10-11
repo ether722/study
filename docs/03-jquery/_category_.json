@@ -1,0 +1,8 @@
+{
+  "label": "🏛️ jQuery 宗师架构",
+  "position": 3,
+  "link": {
+    "type": "generated-index",
+    "description": "涵盖无new构造、pushStack栈回溯、Callbacks观察者、Deferred异步、Data缓存池与Sizzle选择器"
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "label": "⚛️ React 源码天梯",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "涵盖Fiber双缓冲架构、Hooks链表状态机、并发调度Scheduler的DOTA2战术解析"
+  }
+}
